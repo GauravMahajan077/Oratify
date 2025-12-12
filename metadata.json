@@ -1,0 +1,8 @@
+{
+  "name": "Copy of Oratify: The Interview Arcade",
+  "description": "A retro-futuristic, gamified public speaking trainer using Gemini AI.",
+  "requestFramePermissions": [
+    "microphone",
+    "camera"
+  ]
+}
